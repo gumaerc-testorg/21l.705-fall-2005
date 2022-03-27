@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 6d9f6a8b-a9c0-2f0e-6d09-8ca62a9661c9
 resourcetype: Document
 title: SymbolHandout.pdf
 uid: 26d74715-038b-b52d-6c93-6c88d0f8ad74

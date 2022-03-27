@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 6d9f6a8b-a9c0-2f0e-6d09-8ca62a9661c9
 resourcetype: Document
 title: romantic_realist.pdf
 uid: 4ffabac0-644c-014c-61dc-5fb3447333b2
