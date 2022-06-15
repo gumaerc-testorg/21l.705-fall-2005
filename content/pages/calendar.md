@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The calendar section provides information about the topics covered in
+  the course along with journal post dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
