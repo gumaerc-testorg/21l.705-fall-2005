@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: The assignment section provides information about the writing projects
+  to be undertaken during the course and also about the final presentation for the
+  course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 8a29ebd7-70fd-a8e3-b573-b782e93a98c8
 ---
@@ -7,7 +13,7 @@ uid: 8a29ebd7-70fd-a8e3-b573-b782e93a98c8
 Writing
 -------
 
-If you explore the [study materials]({{< baseurl >}}/pages/study-materials) section, you will find some advice about techniques of analyzing texts, formulating analytic "theses," and composing analytical journals. That word analytical is crucial. Your impressions are always relevant, but never central. We are concerned with the ways in which the texts we read grapple with fundamental human issues - not to what degree they measure up to your personal standards of taste.
+If you explore the {{% resource_link 6d9f6a8b-a9c0-2f0e-6d09-8ca62a9661c9 "study materials" %}} section, you will find some advice about techniques of analyzing texts, formulating analytic "theses," and composing analytical journals. That word analytical is crucial. Your impressions are always relevant, but never central. We are concerned with the ways in which the texts we read grapple with fundamental human issues - not to what degree they measure up to your personal standards of taste.
 
 At regular intervals, you will be expected to post on the class mailing list a short (two pages, or 400-500 word) analytic journal, which articulates an issue raised by a particular text and points out some of the ways in which the text confronts that issue. In other words, I will expect you to articulate a thesis about the text and then to demonstrate some of the most significant ways in which the text approaches that issue. The journals will be "guided," in that I will establish certain issues or aspects of the texts you write about I want you to focus on. Otherwise, you have a large degree of free choice. Please do not write about a text set as the primary discussion point of a particular session (unless you tackle a text from a date well beyond the date when you submit your journal).
 
