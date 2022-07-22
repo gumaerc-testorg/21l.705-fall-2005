@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_welty_v2.jpg
 uid: 38a1f3b3-01c1-d76b-933a-9b571b3193ee
 ---
 Eudora Welty. (Image courtesy of the Eudora Welty House. Used with permission.)
-
