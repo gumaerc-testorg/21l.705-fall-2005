@@ -2,7 +2,7 @@
 content_type: resource
 description: The resource is a series of analytic encounters with the texts on the
   syllabus and responses to matters raised in discussion.
-file: /courses/21l-705-masterworks-in-american-short-fiction-fall-2005/d82424da112dae9c791821d8c5357f24_journals.pdf
+file: /ol-ocw-studio-app/courses/21l-705-masterworks-in-american-short-fiction-fall-2005/d82424da112dae9c791821d8c5357f24_journals.pdf
 file_size: 12481
 file_type: application/pdf
 learning_resource_types: []
