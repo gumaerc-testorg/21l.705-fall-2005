@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The resource describes steps to write effective analytic prose.
-file: /ol-ocw-studio-app/courses/21l-705-masterworks-in-american-short-fiction-fall-2005/337b37e844660adc24c0fed2fbecceb2_thesis.pdf
+file: /courses/21l-705-masterworks-in-american-short-fiction-fall-2005/337b37e844660adc24c0fed2fbecceb2_thesis.pdf
 file_size: 14759
 file_type: application/pdf
 learning_resource_types: []

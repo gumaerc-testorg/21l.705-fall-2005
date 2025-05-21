@@ -2,7 +2,7 @@
 content_type: resource
 description: The resource guides the reader to a full and relevant experience of the
   text.
-file: /ol-ocw-studio-app/courses/21l-705-masterworks-in-american-short-fiction-fall-2005/b50b2b728c0325a15f13e16d5e748ccb_analyzing.pdf
+file: /courses/21l-705-masterworks-in-american-short-fiction-fall-2005/b50b2b728c0325a15f13e16d5e748ccb_analyzing.pdf
 file_size: 18428
 file_type: application/pdf
 learning_resource_types: []
