@@ -2,7 +2,7 @@
 content_type: resource
 description: Three quotations on the use of symbols in writing by Thomas Carlyle,
   Nathaniel Hawthorne, and Ralph Waldo Emerson.
-file: /courses/21l-705-masterworks-in-american-short-fiction-fall-2005/26d74715038bb52d6c936c88d0f8ad74_SymbolHandout.pdf
+file: /ol-ocw-studio-app/courses/21l-705-masterworks-in-american-short-fiction-fall-2005/26d74715038bb52d6c936c88d0f8ad74_SymbolHandout.pdf
 file_size: 68601
 file_type: application/pdf
 learning_resource_types: []
