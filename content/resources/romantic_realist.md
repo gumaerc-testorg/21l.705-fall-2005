@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes the comparision between Romantic and Realist writing
   styles.
-file: /courses/21l-705-masterworks-in-american-short-fiction-fall-2005/4ffabac0644c014c61dc5fb3447333b2_romantic_realist.pdf
+file: /ol-ocw-studio-app/courses/21l-705-masterworks-in-american-short-fiction-fall-2005/4ffabac0644c014c61dc5fb3447333b2_romantic_realist.pdf
 file_size: 59230
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A reading list for the course.
-file: /courses/21l-705-masterworks-in-american-short-fiction-fall-2005/15b809a229d126ca4f6f2788d80623fa_too_much_to_read.pdf
+file: /ol-ocw-studio-app/courses/21l-705-masterworks-in-american-short-fiction-fall-2005/15b809a229d126ca4f6f2788d80623fa_too_much_to_read.pdf
 file_size: 53580
 file_type: application/pdf
 learning_resource_types: []
