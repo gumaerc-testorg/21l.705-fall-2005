@@ -359,7 +359,7 @@ Discuss Dashiell Hammett's, "The Whosis Kid."
 {{< tdopen >}}
 
 
-Huston, John. [_The Maltese Falcon_](http://www.imdb.com/title/tt0033870/). 1941.
+Huston, John. {{% resource_link "03062015-cfaf-4008-91f4-a7cbfc138b16" "_The Maltese Falcon_" %}}. 1941.
 
 Hammett, Dashiell. "The Whosis Kid." In _The Continental Op._ New York, NY: Random House, 1989. ISBN: 0679722580.
 
